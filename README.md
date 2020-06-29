@@ -1,12 +1,20 @@
+```
+    ____               ________         
    / __ \_      ______/ / ____/__  ____ 
   / /_/ / | /| / / __  / / __/ _ \/ __ \
  / ____/| |/ |/ / /_/ / /_/ /  __/ / / /
-/_/     |__/|__/\__,_/\____/\___/_/ /_/
+/_/     |__/|__/\__,_/\____/\___/_/ /_/ 
+                                        
+```
 Password Generator
 
 
 ## How to use
 
+Clone the repository
+SSH - ``` git clone git@github.com:domludera/PwdGen.git ```
+HTTPS - ``` git clone https://github.com/domludera/PwdGen.git ```
+ 
 To compile the code first run in the root directory
 ``` javac *.java```
 
